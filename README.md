@@ -1,5 +1,5 @@
 # Robotic_Manipulation
-Implementation for MRI, Ultrasound, CT using Matlab
+
 
 **Implementation**
 
