@@ -1,5 +1,4 @@
-# Robotic_Manipulation
-
+# contact-rich-arm-stacking-pybullet
 
 **Implementation**
 
